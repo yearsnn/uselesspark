@@ -61,6 +61,7 @@ body {
     }
     #maintext {
         width: 50vw!important;
+        font-size: 1vw!important;
     }
 
 }

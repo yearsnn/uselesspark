@@ -59,6 +59,9 @@ body {
         width: 50vw!important;
         font-size: 1vw;
     }
+    #maintext {
+        width: 50vw!important;
+    }
 
 }
 @media screen and (max-width: 768px) { 

@@ -17,7 +17,7 @@ document.getElementById('textInput').addEventListener('click', function() {
 });
 
 
-const imagesPath = "images/";
+const imagesPath = "./images/";
 const specialChars = {
     '♥': 'heart',
     '★': 'star',
